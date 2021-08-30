@@ -1,2 +1,2 @@
-# nus-august-30-12
+# nus-august-30
 Test Repository
